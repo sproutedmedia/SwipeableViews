@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct ContentView: View {
-    private let colors: [Color] = [.red, .blue, .green, .orange, .black]
+   private let colors: [Color] = [.red, .blue, .green, .orange, .black]
     
     var body: some View {
         VStack {
